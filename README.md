@@ -2,7 +2,6 @@
 
 ## Table of Contents:
 
-- [C#](#c)
 - [C/C++](#cc)
 - [Go](#go)
 - [HTML/CSS](#html-and-css)
@@ -133,14 +132,6 @@
 - [Handmade Hero](https://handmadehero.org)
 - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
-## C#:
-
-- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
-- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
-- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
-- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
-- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
-
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
@@ -195,23 +186,6 @@
   - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
-
-#### Angular:
-
-- [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
-- Build an offline-capable Hacker News client with Angular 2+
-  - [Part 1](https://houssein.me/angular2-hacker-news)
-  - [Part 2](https://houssein.me/progressive-angular-applications)
-- [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
-- Build A Beautiful Real World App with Angular 8 :
-
-  - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
-  - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
-
-- [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
-- ToDo App with Angular 5
-  - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
-  - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
 
 #### Node:
 
