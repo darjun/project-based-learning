@@ -8,7 +8,6 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Python](#python)
-- [Rust](#rust)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -470,32 +469,9 @@
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 
-## Rust:
-
-- A Simple Web App in Rust
-  - [Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
-  - [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
-  - [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
-- [Write an OS in pure Rust](https://os.phil-opp.com/)
-- [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-- [Write a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
-- [Learning Rust with Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
-- Rust in Detail: Writing Scalable Chat Service from Scratch
-  - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
-  - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
-- [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
-- [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
-- [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
-- Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
-  - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
-  - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
-  - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
-  - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
-
 ## Additional Resources
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
-- [Udemy.com](https://www.udemy.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
 - [ScotchIO](https://scotch.io/)
