@@ -480,5 +480,4 @@
 - [Michael Herman's Blog](http://mherman.org/)
 - [Thinkster.io](http://thinkster.io)
 - [Enlight](https://enlight.nyc/)
-- [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
